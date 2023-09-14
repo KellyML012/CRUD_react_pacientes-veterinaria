@@ -17,3 +17,6 @@ Proyecto de práctica en React con Vite y LocalStorage para gestionar la informa
 * Inicia la aplicación en modo de desarrollo: npm run dev
 
 La información de los pacientes se almacena localmente en LocalStorage.
+
+## Demostración
+Link a la página: https://turnos-pacientes-veterinaria.netlify.app
